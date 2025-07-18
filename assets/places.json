@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Berat",
+    "categories" : ["Old Town"],
+    "images": [
+      "assets/images/signup.jpeg",
+      "assets/images/berat2.jpeg",
+      "assets/images/berat3.jpg",
+      "assets/images/berat4.jpg",
+      "assets/images/berat5.webp",
+      "assets/images/berat6.jpeg"
+    ],
+    "description" : "Nestled in the heart of southern Albania, Berat is one of the country’s most enchanting and historically rich cities. Often called \"The City of a Thousand Windows\" due to its distinctive Ottoman-era architecture, Berat is a UNESCO World Heritage Site that offers a unique blend of history, culture, and natural beauty. Berat is located on the banks of the Osum River, surrounded by rolling hills and overlooked by a majestic medieval castle that still houses residents today. The city is famous for its well-preserved white houses that climb up the hillside, creating a picturesque view especially at sunset. Its historic districts, Mangalem and Gorica, are connected by an elegant arched stone bridge and are filled with narrow cobblestone streets, traditional homes, and charming local shops. Tourists are drawn to Berat not just for its architecture, but also for its rich cultural heritage. Inside the Berat Castle, you'll find Byzantine churches, Ottoman mosques, and the renowned Onufri Museum, named after the 16th-century Albanian icon painter. The peaceful atmosphere and warm hospitality of the locals make the experience even more memorable. Whether you're interested in history, photography, authentic Albanian cuisine, or simply a relaxing escape in a beautiful setting, Berat is a must-visit destination that captures the spirit and soul of Albania."
+  },
+  {
+    "title" : "Rugova Valley",
+    "categories" : ["Mountains","Spring", "Glacial Lakes"],
+    "images" : [
+      "assets/images/rugova4.jpg",
+      "assets/images/rugova.jpg",
+      "assets/images/rugova2.jpg",
+      "assets/images/rugova3.jpg",
+      "assets/images/rugova5.jpg",
+      "assets/images/rugova6.jpg",
+      "assets/images/rugova7.jpg"
+    ],
+    "description" :"Rugova Valley is a breathtaking alpine region located in western Kosovo, just outside the city of Pejë, stretching deep into the Accursed Mountains (Bjeshkët e Nemuna).\n\nKnown for its dramatic cliffs, deep canyons, crystal-clear rivers, and lush forests, Rugova is one of the country’s most stunning natural treasures.The valley follows the course of the Lumbardhi i Pejës River and offers a paradise for outdoor enthusiasts. From hiking and rock climbing to paragliding, zip-lining, and even skiing in winter, Rugova has activities for every season.\n\n The famous Rugova Canyon, with its vertical rock walls rising over 1000 meters, is a highlight of the region.\n\nSmall villages like Koshutan, Kuqishtë, and Bogë offer traditional hospitality, wooden mountain lodges, and panoramic views of untouched nature. Rugova is also part of the Peaks of the Balkans trail, a cross-border hiking route linking Kosovo with Albania and Montenegro.Peaceful, wild, and full of natural beauty, Rugova Valley is perfect for those seeking an escape into the mountains, whether for adventure or tranquility."
+  },
+  {
+    "title": "Kruja",
+    "categories" :["Castle", "Old Town"] ,
+    "description": "Krujë is a historic city located in central Albania, perched on the slopes of Mount Krujë, about 30 km north of Tirana. It is best known as the hometown of Gjergj Kastrioti Skanderbeg, Albania’s national hero who led the resistance against the Ottoman Empire in the 15th century.\n\nThe city’s most iconic landmark is the Krujë Castle, dramatically overlooking the surrounding plains and offering stunning panoramic views. Within the castle walls, you'll find the Skanderbeg Museum, which showcases the hero’s life and legacy, and the Ethnographic Museum, offering a glimpse into traditional Albanian life.\n\nKrujë was the center of Albanian resistance during the Ottoman invasions, famously withstanding three major sieges. The city holds great national pride and historical symbolism, making it a must-visit for those interested in Albania’s identity and independence.\n\nJust below the castle lies the Old Bazaar, a charming cobblestone street lined with traditional shops selling handmade crafts, rugs, silverwork, and antiques — a perfect place to experience authentic Albanian culture.With its heroic past, cultural depth, and beautiful mountain setting, Krujë is not only a symbol of resistance and unity, but also a destination full of character and history.",
+    "images": [
+      "assets/images/kruja.jpg",
+      "assets/images/kruja2.jpg",
+      "assets/images/kruja3.jpg",
+      "assets/images/kruja4.jpg",
+      "assets/images/kruja5.jpg",
+      "assets/images/kruja6.jpg"
+    ]
+  },
+  {
+    "title" : "Theth National Park",
+    "categories" : ["Mountains", "National Park"],
+    "description" : "Theth is a national park in the North of Albania",
+    "images" : [
+      "assets/images/theth2.jpg",
+      "assets/images/theth.jpg",
+      "assets/images/theth3.webp",
+      "assets/images/theth4.jpg",
+      "assets/images/theth5.webp",
+      "assets/images/theth7.jpg"
+    ]
+  },
+{
+  "title" : "Ksamil",
+  "categories" :[ "Beach"],
+  "description" : "Ksamil is a small coastal village in southern Albania, located near Saranda and just across from the Greek island of Corfu. It's famous for its crystal-clear turquoise waters, white sandy beaches, and peaceful islands that can be reached by boat or even swimming. Part of the protected Butrint National Park, Ksamil offers a mix of natural beauty and ancient history. It's a perfect spot for swimming, relaxing, and enjoying fresh seafood. Visitors love it for its laid-back vibe and stunning seaside views",
+  "images" : [
+    "assets/images/ksamil.jpeg",
+     "assets/images/ksamil2.jpeg",
+      "assets/images/ksamil3.jpg",
+       "assets/images/ksamil4.jpg",
+        "assets/images/ksamil5.jpg"
+  ]
+},
+{
+  "title" : "Gjirokastër",
+  "categories" : ["Old Town", "Castle"],
+  "description" : " Gjirokastra is a historic city located in southern Albania, nestled on the steep slopes of the Drino Valley. Often referred to as the \"Stone City,\" Gjirokastra is renowned for its well-preserved Ottoman-era architecture, with its unique stone houses featuring slate roofs, wooden balconies, and white facades that create a striking hillside panorama.\n\nOne of the city’s main landmarks is the Gjirokastra Castle, one of the largest in the Balkans, offering breathtaking views over the valley and a rich military history. The city is also home to the Ethnographic Museum, located in the birthplace of Albanian writer Ismail Kadare.\n\nGjirokastra is a UNESCO World Heritage Site, celebrated for its blend of architecture, culture, and history. Walking through its cobbled streets feels like stepping back in time. Whether you're interested in history, photography, or traditional Albanian culture, Gjirokastra offers a unique and authentic experience — a must-visit for travelers seeking more than just beautiful views.",
+  "images" : [
+    "assets/images/gjirokastra.jpg",
+     "assets/images/gjirokastra2.jpg",
+      "assets/images/gjirokastra3.jpg",
+       "assets/images/gjirokastra4.jpg",
+        "assets/images/gjirokastra5.jpg",
+         "assets/images/gjirokastra6.jpeg",
+          "assets/images/gjirokastra8.webp"
+  ]
+},
+{
+  "title" : "Prizren",
+  "categories" : ["Old Town", "Castle"],
+  "description" : "Prizren is a picturesque city located in southern Kosovo, near the borders with Albania and North Macedonia. Set against the backdrop of the Sharr Mountains and split by the Bistrica River, Prizren is known for its rich history, cultural diversity, and well-preserved Ottoman architecture.\n\nThe city's most iconic landmark is the Prizren Fortress, offering panoramic views of the old town’s cobbled streets, stone bridges, and red-roofed houses. Visitors can also explore historic mosques, churches, and the famous Sinan Pasha Mosque located in the heart of the city.\n\nWith its vibrant mix of cultures, art festivals like Dokufest, and a welcoming atmosphere, Prizren offers a unique experience that blends tradition, beauty, and hospitality. It’s a must-visit destination for those interested in Balkan history, architecture, and authentic local charm.",
+  "images" : [
+    "assets/images/prizren.jpg",
+    "assets/images/prizren2.webp",
+    "assets/images/prizren3.jpg",
+    "assets/images/prizren4.jpg",
+    "assets/images/prizren5.jpg",
+    "assets/images/prizren6.webp"
+  ]
+},
+{
+  "title" : "Korçë",
+  "categories" : ["Old Town"],
+  "description" : "Korçë is a charming city in southeastern Albania, known for its rich cultural heritage, elegant architecture, and vibrant atmosphere.\n\nNestled at the foot of the Morava Mountains, it offers a blend of history, tradition, and a touch of French-inspired urban design.\n\nThe city is home to the first Albanian school, now a museum, and boasts landmarks like the Red Tower, the Orthodox Cathedral, and the historic bazaar with its cobbled streets and cozy cafes. Korçë is also famous for its lively beer festival, traditional music, and delicious cuisine.\n\nWith its artistic spirit, clean streets, and welcoming vibe, Korçë is a great destination for those looking to explore a lesser-known yet beautiful part of Albania.",
+  "images" : [
+    "assets/images/korca.webp",
+    "assets/images/korca2.jpg",
+    "assets/images/korca3.jpg",
+    "assets/images/korca4.jpg",
+    "assets/images/korca5.jpg",
+    "assets/images/korca6.jpg"
+
+  ]
+},
+{
+  "title" : "Dhërmi",
+  "categories" : ["Beach"],
+  "description" :"Dhërmi is a stunning coastal village located along the Albanian Riviera, between the Ionian Sea and the Ceraunian Mountains.\n\n Known for its crystal-clear waters, white pebble beaches, and dramatic mountain backdrop, Dhërmi is one of Albania’s most beautiful and popular seaside destinations.\n\nThe village itself is a blend of tradition and charm, with stone houses, narrow paths, and panoramic sea views. Nearby beaches like Drymades and Gjipe offer both relaxation and adventure, while the vibrant nightlife and summer festivals attract young travelers from all over.Whether you're looking to unwind by the sea, explore hidden coves, or enjoy music under the stars, Dhërmi combines natural beauty with a relaxed, authentic Albanian atmosphere. ",
+  "images" : [
+    "assets/images/dhermi.jpg",
+    "assets/images/dhermi2.jpg",
+    "assets/images/dhermi3.jpg",
+    "assets/images/dhermi4.jpg",
+    "assets/images/dhermi5.jpg",
+    "assets/images/dhermi6.jpg",
+    "assets/images/dhermi7.webp"
+  ]
+},
+{
+  "title" : "Strugë",
+  "categories" : ["Lake" , "River"],
+  "description" : "Struga is a scenic town located in southwestern North Macedonia, on the shores of Lake Ohrid and along the Black Drin River. Known for its peaceful ambiance and natural beauty, Struga is a favorite summer destination for locals and visitors alike.\n\nThe town offers a relaxed atmosphere with lakeside promenades, cozy cafés, and picturesque bridges crossing the river. Struga is also known for its International Poetry Festival, which attracts artists and poets from around the world, giving the town a unique cultural charm.With its blend of lake views, historical sites, and artistic spirit, Struga is perfect for travelers seeking tranquility, nature, and a touch of literary heritage.",
+  "images" : [
+    "assets/images/struga4.jpg",
+    "assets/images/struga2.jpg",
+    "assets/images/struga3.jpg",
+    "assets/images/struga.jpg",
+    "assets/images/struga5.jpg",
+    "assets/images/struga6.jpg"
+  ]
+},
+{
+  "title" : "Shkodër",
+  "categories" : ["Old Town", "Lake", "River", "Castle"],
+  "description" : "Shkodër is one of the oldest and most historic cities in Albania, located in the country’s northwest near the borders with Montenegro.\n\n It lies between the shores of Lake Shkodër (the largest lake in the Balkans), the Buna River, and the foothills of the Albanian Alps, giving it a unique and strategic geographical setting.The city has been a major cultural and economic center for centuries, with roots dating back to the Illyrian era. Its most famous landmark is the Rozafa Castle, perched on a hill overlooking the lake and rivers, offering stunning panoramic views and a legend tied to sacrifice and resilience.Shkodër is also known for its vibrant arts scene, traditional music, and strong Catholic heritage.\n\n The Marubi National Museum of Photography hosts one of the oldest photo archives in the Balkans. The old town is filled with colorful houses, Venetian-style buildings, and cafés that reflect a blend of Ottoman and European influences.\n\nSurrounded by natural beauty, Shkodër serves as a gateway to Theth National Park, the Accursed Mountains, and Lake Shkodër, making it ideal for hiking, kayaking, and nature tourism. The city is also a key stop on the way to Montenegro or the Albanian Riviera.With its deep history, cultural richness, and access to both mountains and water, Shkodër offers something for every type of traveler — from history lovers to adventure seekers. ",
+  "images" : [
+    "assets/images/shkodra.jpeg",
+    "assets/images/shkodra2.jpg",
+    "assets/images/shkodra3.jpg",
+    "assets/images/shkodra4.webp",
+    "assets/images/shkodra5.jpg",
+    "assets/images/shkodra6.jpg",
+    "assets/images/shkodra7.jpg"
+  ]
+},
+{
+  "title" : "Lura National Park",
+  "categories": ["Mountains", "Glacial Lakes", "National Park"],
+  "description" : "Lura National Park, also known as Lurë National Park, is located in northeastern Albania, in the municipality of Dibër, about 40 km south of the town of Peshkopi.\n\n Set within the Lurë Mountains, this national park is one of Albania’s most beautiful and untouched natural areas, renowned for its glacial lakes, alpine meadows, and dense pine forests.The park originally consisted of 12 glacial lakes, collectively known as the Lura Lakes, scattered between 1,200 and 1,500 meters above sea level.\n\n Each lake has its own name and charm, such as Liqeni i Luleve (Lake of Flowers), known for the vibrant blossoms that surround it during spring and summer.Visitors can hike through dramatic landscapes filled with fir, beech, and pine trees, with opportunities to spot wild animals like deer, wolves, and even brown bears.\n\n In the winter, the mountains are covered in snow, making it a peaceful, untouched destination year-round.Though parts of the park suffered deforestation in the past, ongoing restoration efforts aim to bring Lura back to its former glory. Today, the park is a symbol of Albania’s natural heritage, perfect for those seeking solitude, scenic hikes, and connection with pristine wilderness.",
+  "images" : [
+    "assets/images/lura.jpg",
+    "assets/images/lura2.webp",
+    "assets/images/lura3.jpg",
+    "assets/images/lura4.jpg",
+    "assets/images/lura5.jpg",
+    "assets/images/lura6.jpg"
+  ]
+},
+{
+  "title" : "Pogradec",
+  "categories" : ["Lake", " Ancient"],
+  "description" : "Pogradec is a charming lakeside town located in southeastern Albania, nestled along the shores of Lake Ohrid, one of Europe's oldest and deepest lakes. Known for its crystal-clear waters, fresh air, and relaxed atmosphere, Pogradec is the perfect destination for those seeking natural beauty, history, and tranquility.\n\nThe town offers beautiful lakeside promenades, sandy beaches, and delicious local cuisine, especially the famous Koran fish, a delicacy unique to Lake Ohrid. Visitors can explore the nearby Drilon National Park, with its serene water springs and lush greenery, or take a short trip to the picturesque Tushemisht village, known for its traditional stone houses and canals.Pogradec also boasts a rich cultural heritage, with ancient Illyrian ruins, historic churches, and literary significance as the hometown of renowned Albanian writer Lasgush Poradeci.\n\nWhether you're looking to swim, relax by the lake, enjoy local hospitality, or immerse yourself in Albania’s cultural and natural beauty, Pogradec offers a peaceful and authentic experience." , 
+  "images" : [
+    "assets/images/pogradec.webp",
+     "assets/images/pogradec2.jpg",
+      "assets/images/pogradec3.webp",
+       "assets/images/pogradec4.jpg",
+        "assets/images/pogradec5.jpg",
+         "assets/images/pogradec6.jpg"
+
+  ]
+},
+{
+  "title" : "Butrint National Park",
+  "categories" : ["Ancient", "National Park"],
+  "description" : " Butrint National Park is one of Albania’s most spectacular destinations, combining breathtaking nature with remarkable archaeological heritage. \n\nLocated in the country’s south, near the town of Saranda and just across the channel from Corfu, the park is home to the ancient city of Butrint—a UNESCO World Heritage Site.This well-preserved site tells the story of civilizations spanning over 2,500 years, including the Greeks, Romans, Byzantines, and Venetians. Visitors can explore impressive ruins like the Roman amphitheater, the ancient agora, the baptistery with its intricate mosaics, and the hilltop castle offering panoramic views of the Vivari Channel and surrounding wetlands.\n\nBeyond its historical wonders, Butrint is also a haven for biodiversity. The park’s lush forests, lakes, and lagoons are rich in birdlife and unique plant species, making it a paradise for nature lovers, hikers, and photographers.Whether you're a history enthusiast or simply in search of peaceful natural beauty, Butrint National Park is a must-visit highlight of southern Albania." ,
+  "images" : [
+    "assets/images/butrint.jpg",
+    "assets/images/butrint2.jpg",
+    "assets/images/butrint3.jpg",
+    "assets/images/butrint4.jpg",
+    "assets/images/butrint5.jpg",
+    "assets/images/butrint6.jpg"
+  ]
+}
+] 
